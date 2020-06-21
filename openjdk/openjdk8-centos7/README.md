@@ -8,7 +8,7 @@ $ cd ~/docker-images/jdk8
 $ vim Dockerfile
 ```
 
-将 `Dockerfile` 中的内容拷贝到 `vim` 编辑器中，按 `:wq` 保存退出。
+完成后，按 `:wq` 保存退出。
 
 
 
